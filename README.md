@@ -2,10 +2,6 @@
 
 My name is Hoseok Lee, and I'm a fourth-year Data Science undergrad at the University of Waterloo! 
 
-📧 Feel free to contact me at h349lee@uwaterloo.ca.
-
-🚀 Connect with me on LinkedIn! https://www.linkedin.com/in/hoseok-lee-388548165/
-
 ### Current Projects
 
 ### Interests
@@ -21,6 +17,10 @@ I love anything and everything machine learning. I've worked on various ML tasks
 I'm also really into math. My favorite courses at Waterloo were those that delved into the derivations behind statistical and machine learning algorithms.
 
 Aside from that, you'll probably find me pumping iron at the gym or playing piano.
+
+📧 Feel free to contact me at h349lee@uwaterloo.ca.
+
+🚀 Connect with me on LinkedIn! https://www.linkedin.com/in/hoseok-lee-388548165/
 
 <!--
 **hmathlee/hmathlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
