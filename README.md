@@ -4,6 +4,8 @@ My name is Hoseok Lee, and I'm a fourth-year Data Science undergrad at the Unive
 
 ### Current Projects
 
+**Retrieval-Based Study App:** Leverages LangChain's agent capabilities, combining search tools with retrieval from Chroma's vector database to help students study. Students can upload their course notes (currently supports PDF files) and receive a context-specific explanation of concepts.
+
 ### Interests
 
 I love anything and everything machine learning. I've worked on various ML tasks during my internships; to name a few:
