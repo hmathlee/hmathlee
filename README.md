@@ -10,6 +10,8 @@ My name is Hoseok Lee, and I'm a fourth-year Data Science undergrad at the Unive
 
 You can read more about my projects and interests at https://www.hoseoklee.cc.
 
+### Contact
+
 📧 Feel free to contact me at h349lee@uwaterloo.ca.
 
 🚀 Connect with me on LinkedIn! https://www.linkedin.com/in/hoseok-lee-388548165/
