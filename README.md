@@ -1,6 +1,6 @@
 # About Me
 
-My name is Hoseok Lee, and I'm a fourth-year Data Science undergrad at the University of Waterloo! 
+My name is Hoseok Lee, and I did my Bachelor's Degree in Data Science at the University of Waterloo! 
 
 ### Current Projects
 
