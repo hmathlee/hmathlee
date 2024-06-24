@@ -12,7 +12,7 @@ You can read more about my projects and interests at https://www.hoseoklee.cc.
 
 ### Contact
 
-📧 hoseokmlee@gmail.com.
+📧 hoseokmlee@gmail.com
 
 🚀 Connect on LinkedIn - https://www.linkedin.com/in/hoseok-lee-388548165/
 
