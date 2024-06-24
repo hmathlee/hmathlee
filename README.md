@@ -12,9 +12,9 @@ You can read more about my projects and interests at https://www.hoseoklee.cc.
 
 ### Contact
 
-📧 Feel free to contact me at h349lee@uwaterloo.ca.
+📧 hoseokmlee@gmail.com.
 
-🚀 Connect with me on LinkedIn! https://www.linkedin.com/in/hoseok-lee-388548165/
+🚀 Connect on LinkedIn - https://www.linkedin.com/in/hoseok-lee-388548165/
 
 <!--
 **hmathlee/hmathlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
